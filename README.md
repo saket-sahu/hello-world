@@ -1,4 +1,4 @@
 # hello-world
 
 Hi,
-Saket here , a new to gitHub so just exploring the things.
+Saket here , am new to gitHub so just exploring the things.
